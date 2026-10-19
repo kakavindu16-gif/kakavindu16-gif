@@ -1,16 +1,15 @@
-## Hi there 👋
+# @kakavindu16-gif
 
-<!--
-**kakavindu16-gif/kakavindu16-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Full-Stack Software Engineer
 
-Here are some ideas to get you started:
+Passionate about crafting scalable web architectures, clean design systems, and delightful developer experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focus
+- **Architecture**: Microservices, distributed systems, and real-time collaborative applications
+- **Tooling**: TypeScript · React · Node.js · Next.js · PostgreSQL · Docker · Redis · TailwindCSS
+
+### Notes & Principles
+“Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+---
+[GitHub Profile](https://github.com/kakavindu16-gif) · [Repositories](https://github.com/kakavindu16-gif?tab=repositories)
